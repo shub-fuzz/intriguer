@@ -3,7 +3,7 @@ From: registry.gitlab.com/rode0day/fuzzer-testing/intriguer_runner:16.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID 52ed8da7a
+    DockerTagID 44794114f
 
 %environment
     AFL_SKIP_CPUFREQ=1
